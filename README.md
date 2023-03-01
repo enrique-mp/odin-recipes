@@ -1,3 +1,3 @@
 # Odin Recipes exercise
 
-\[WIP]
+\[ **WIP** ]
